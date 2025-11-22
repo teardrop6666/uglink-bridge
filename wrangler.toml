@@ -4,12 +4,12 @@ compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
 BASE_URL = "https://dx4600pro-gwj.cn25.ug.link"
-PORT = "5445"
+PORT = "7777"
 USERNAME = "teardrop"
 
 [[kv_namespaces]]
 binding = "UGLINK_CACHE"
-id = "adaca9f3e21648b280fda69471190d3d"  # Replace with your actual KV namespace ID from Cloudflare dashboard
+id = "9af30316ebcc44289bfb0c6afa4ddbba"  # Replace with your actual KV namespace ID from Cloudflare dashboard
 
 [observability.logs]
 enabled = true
