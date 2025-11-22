@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 [vars]
 BASE_URL = "https://dx4600pro-gwj.cn25.ug.link/"
 PORT = "7777"
-USERNAME = "Hzq666"
+USERNAME = "hzq"
 
 [[kv_namespaces]]
 binding = "UGLINK_CACHE"
